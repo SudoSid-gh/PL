@@ -17,7 +17,7 @@
 
 # ── SETTINGS ──────────────────────────────────────────────────
 $DelaySeconds   = 30    # seconds to wait before showing
-$DisplaySeconds = 30    # seconds to show image/play sound
+$DisplaySeconds = 5    # seconds to show image/play sound
 $ImageExt       = "bmp" # extension that matches your embedded image (jpg/png/bmp)
 $SoundExt       = "mp3" # wav recommended; mp3 needs Windows Media Player
 
