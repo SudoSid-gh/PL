@@ -16,8 +16,8 @@
 # ==============================================================
 
 # ── SETTINGS ──────────────────────────────────────────────────
-$DelaySeconds   = 30
-$DisplaySeconds = 30
+$DelaySeconds   = 15
+$DisplaySeconds = 5
 $ImageExt       = "bmp"
 $SoundExt       = "wav"
 
