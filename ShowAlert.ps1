@@ -17,7 +17,7 @@
 #
 # ==============================================================
 
-$DelaySeconds   = 30
+$DelaySeconds   = 75
 $DisplaySeconds = 5
 $ImageExt       = "bmp"   # change to jpg or png if needed
 
